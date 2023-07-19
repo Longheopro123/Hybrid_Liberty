@@ -1,0 +1,2 @@
+set MATLAB=C:\Program Files\MATLAB\R2023a
+"%MATLAB%\bin\win64\gmake" -f HEV_mode.mk  INCLUDE_MDL_TERMINATE_FCN=1 OPTS="-DTID01EQ=0"

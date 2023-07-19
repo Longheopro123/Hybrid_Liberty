@@ -1,0 +1,113 @@
+$======================================================================
+$ Application: Vehicle Data
+$ Object:      MatLab DLL
+$ created:     Oct 30, 2013 12:15:22
+$=============================================Properties of: MatLab DLL
+[_PROPERTIES_]
+{ _NAME_    _VALUE_ }
+  'AUSGABE' 2      
+$============================================================MatLab DLL
+[MATLAB] 18
+DATENSATZ_VERANTWORTLICHER = ''
+DB_USER                   = ''
+SEC_ID                    = 
+BEMERKUNG                 = 'HEV_mode'
+IDENTIF_ATTR1             = ''
+IDENTIF_ATTR2             = ''
+IDENTIF_ATTR3             = ''
+#MASI_ID                  = 
+#MASI_ENTW_DATUM          = ""
+IFO_ID                    = 
+MATLAB_BIBLIOTHEK         = ''
+BLOB_DATA                 = ''
+TP_ID                     = 2011
+#MASI_ID                  = 
+#MASI_ENTW_DATUM          = " "
+RESULT_NAME               = 'HEV_mode'
+RESULT_GROUP              = ''
+$-------------------------------------Description of Data Bus
+(DATENBUSBEZEICHNUNG)
+{ ATTRIBUT   NAME                                   EINHEIT NOT_NULL DECOUPLE }
+  'INPORT0'  'Load_Signal' '' 1 0
+  'INPORT1'  'Eng_spd' '' 1 0
+  'INPORT2'  'Mtr_spd' '' 1 0
+  'INPORT3'  'SOC' '' 1 0
+  'INPORT4'  'BrkTrq_Cmd' '' 1 0
+  'INPORT5'  'Generator_spd' '' 1 0
+  'OUTPORT0'  'Engine_Load' '' 1 0
+  'OUTPORT1'  'Motor_Load' '' 1 0
+  'OUTPORT2'  'Clutch' '' 1 0
+  'OUTPORT3'  'Generator_Trq' '' 1 0
+  'OUTPORT4'  'FrBrk_Cmd' '' 1 0
+  'OUTPORT5'  'Generator2_TrqCmd' '' 1 0
+  'OUTPORT6'  'Eng_Switch' '' 1 0
+$==================================================================Info
+(MATLAB_IFO)
+#IFO_ID                   = 
+INFO_TEXT                 = ''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
